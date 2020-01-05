@@ -1,0 +1,57 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  F:/Studio/atlas_soc_servo_board_v1a/atlas_soc_servo_board_v1a.brd           |
+|                                                    Sat Aug 24 21:53:55 2019  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ CONN PWR 3-P_HDR_2D54_1X3P_2.54
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  F:/Studio/atlas_soc_servo_board_v1a/atlas_soc_servo_board_v1a.brd           |
+|                                                    Sat Aug 24 21:53:55 2019  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ J4                  CONN PWR 3-P_HDR_2D54_1X3P_2.54 
+ J5                  CONN PWR 3-P_HDR_2D54_1X3P_2.54 
+ J6                  CONN PWR 3-P_HDR_2D54_1X3P_2.54 
+ J7                  CONN PWR 3-P_HDR_2D54_1X3P_2.54 
+ J8                  CONN PWR 3-P_HDR_2D54_1X3P_2.54 
+ J9                  CONN PWR 3-P_HDR_2D54_1X3P_2.54 
+ J10                 CONN PWR 3-P_HDR_2D54_1X3P_2.54 
+ J11                 CONN PWR 3-P_HDR_2D54_1X3P_2.54 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  F:/Studio/atlas_soc_servo_board_v1a/atlas_soc_servo_board_v1a.brd           |
+|                                                    Sat Aug 24 21:53:55 2019  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ J4.3                           PRIM_FILE      .\pstchip.dat
+ J5.3                           PRIM_FILE      .\pstchip.dat
+ J6.3                           PRIM_FILE      .\pstchip.dat
+ J7.3                           PRIM_FILE      .\pstchip.dat
+ J8.3                           PRIM_FILE      .\pstchip.dat
+ J9.3                           PRIM_FILE      .\pstchip.dat
+ J10.3                          PRIM_FILE      .\pstchip.dat
+ J11.3                          PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|       Comp definitions added:       1                                        |
+|       Components added      :       8                                        |
+|       Slot property added   :       8                                        |
+|                                                                              |
+|   Total ECO changes reported:      17                                        |
+|------------------------------------------------------------------------------|

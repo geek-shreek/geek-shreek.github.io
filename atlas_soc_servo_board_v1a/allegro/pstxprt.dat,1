@@ -1,0 +1,40 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Aug-24-2019 at 20:50:09 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='ATLAS_SOC_SERVO_BOARD_V1A';
+ POST_TIME='Mar  2 2016 00:37:24';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ J1 'CONN PCB 20X2-S_ESQ-120-12-L-D_':;
+
+SECTION_NUMBER 1
+ '@ATLAS_SOC_SERVO_BOARD_V1A.SCHEMATIC1(SCH_1):INS187@CONNECTOR.CONN PCB 20X2-S.NORMAL(CHIPS)':
+ C_PATH='@atlas_soc_servo_board_v1a.schematic1(sch_1):ins187@connector.\conn pcb 20x2-s.normal\(chips)',
+ P_PATH='@atlas_soc_servo_board_v1a.schematic1(sch_1):page1_ins187@connector.\conn pcb 20x2-s.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CONN PCB 20X2-S_ESQ-120-12-L-D_':;
+
+SECTION_NUMBER 1
+ '@ATLAS_SOC_SERVO_BOARD_V1A.SCHEMATIC1(SCH_1):INS279@CONNECTOR.CONN PCB 20X2-S.NORMAL(CHIPS)':
+ C_PATH='@atlas_soc_servo_board_v1a.schematic1(sch_1):ins279@connector.\conn pcb 20x2-s.normal\(chips)',
+ P_PATH='@atlas_soc_servo_board_v1a.schematic1(sch_1):page1_ins279@connector.\conn pcb 20x2-s.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'CONN PCB 5X2-P_ESQ-120-05-L-D_C':;
+
+SECTION_NUMBER 1
+ '@ATLAS_SOC_SERVO_BOARD_V1A.SCHEMATIC1(SCH_1):INS396@CONNECTOR.CONN PCB 5X2-P.NORMAL(CHIPS)':
+ C_PATH='@atlas_soc_servo_board_v1a.schematic1(sch_1):ins396@connector.\conn pcb 5x2-p.normal\(chips)',
+ P_PATH='@atlas_soc_servo_board_v1a.schematic1(sch_1):page1_ins396@connector.\conn pcb 5x2-p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

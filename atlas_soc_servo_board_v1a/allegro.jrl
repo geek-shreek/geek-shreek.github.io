@@ -1,0 +1,14 @@
+\t (00:00:01) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Sat Aug 24 22:13:10 2019
+\t (00:00:01)         Host=DESKTOP-MR9KLQA User=Shreek Pid=5384 CPUs=4
+\t (00:00:01) CmdLine= D:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: F:/Studio/atlas_soc_servo_board_v1a/atlas_soc_servo_board_v1a.brd
+\i (00:00:04) trapsize 1860
+\i (00:00:04) trapsize 1908
+\i (00:00:04) trapsize 1908
+\i (00:00:05) generaledit 
+\i (00:00:07) exit 
+\t (00:00:07)     Journal end - Sat Aug 24 22:13:16 2019

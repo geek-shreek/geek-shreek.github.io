@@ -1,0 +1,67 @@
+(ExpressProject "Design1"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\atlas_soc_servo_board_v1a.dsn"
+      (Type "Schematic Design")
+      (DisplayName ".\atlas_soc_servo_board_v1a.DSN"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Netlist_TAB "0"))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\atlas_soc_servo_board_v1a.dsn")
+      (Path "Design Resources" ".\atlas_soc_servo_board_v1a.dsn" "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources" ".\atlas_soc_servo_board_v1a.dsn" "SCHEMATIC1"
+         "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -38 0 200 0 190"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -4 -38 52 1178 52 281")
+        (Scroll "-94 208")
+        (Zoom "138")
+        (Occurrence "/"))
+      (Path "F:\STUDIO\ATLAS_SOC_SERVO_BOARD_V1A\ATLAS_SOC_SERVO_BOARD_V1A.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (PartMRUSelector
+    ("CONN PWR 3-P"
+      (FullPartName "CONN PWR 3-P.Normal")
+      (LibraryName
+         "D:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("CONN PCB 5x2-P"
+      (FullPartName "CONN PCB 5x2-P.Normal")
+      (LibraryName
+         "D:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("CONN PCB 20x2-S"
+      (FullPartName "CONN PCB 20x2-S.Normal")
+      (LibraryName
+         "D:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory
+     "D:\Cadence\Cadence_SPB_17.2-2016\tools\capture\library")
+  (MPSSessionName "Shreek")
+  (ISPCBBASICLICENSE "false"))
